@@ -1,4 +1,4 @@
-### Hello! I'm Daniel 
+### I'm Daniel 
 
 - 🟦 Backend-leaning developer working primarily with **Go**  
 - 📦 Learning **Docker** and containerization  
