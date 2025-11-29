@@ -3,8 +3,8 @@
 - 🟦 Backend-leaning developer working primarily with **Go**  
 - 📦 Learning **Docker** and containerization  
 - 🗄️ Building a strong foundation in **SQL**  
-- 🎓 Nearing completion of the **Boot.dev** backend curriculum  
-- ❤️ Interested in **software engineering in healthcare**  
+- 🎓 Completed the **Boot.dev** backend curriculum  
+- ❤️ Interested in **software engineering within healthcare**  
 - 📚 Currently reading *The Pragmatic Programmer*  
 
 Self-taught —I've spent the last year building with Go and developing a passion for backend engineering. I'm currently learning Docker and SQL and wrapping up the Boot.dev backend programming course.  
