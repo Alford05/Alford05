@@ -8,4 +8,4 @@
 - 📚 Currently reading *The Pragmatic Programmer*  
 
 Self-taught —I've spent the last year building with Go and developing a passion for backend engineering. I'm currently learning Docker and SQL and wrapping up the Boot.dev backend programming course.  
-I'm especially interested in software engineering in the healthcare world, where good code can make a real impact. Right now you'll usually find me experimenting with backend projects or diving into *The Pragmatic Programmer*.
+I'm especially interested in software engineering in the healthcare world, where I can focus on turning real needs into practical software that genuinely helps others. Right now you can find me experimenting with backend projects or diving into *The Pragmatic Programmer*.
