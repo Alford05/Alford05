@@ -1,12 +1,13 @@
-### I'm Daniel 
+### Hi, I'm Daniel 👋
 
-- 🟦 Backend-leaning developer working primarily with **Go** and **python**
-- 📦 building a solid foundation around **Continuous Integration and Continuous Delivery**
-- 📦 improving my skills with **Docker** and containerization 
-- 🗄️ Building a strong foundation in **SQL**  
-- 🎓 Completed the **Boot.dev** backend curriculum  
-- ❤️ Interested in **software engineering used to build tools that improve efficiency and quality**  
-- 📚 Currently reading *The Pragmatic Programmer*  
+* 🟦 Backend-focused developer working primarily with **Go** and **Python**
+* 🗄️ Building data-driven applications with **PostgreSQL**, **SQL**, and **ETL workflows**
+* 🐳 Using **Docker** to develop and manage containerized environments
+* 📊 Interested in **database design, reporting, query optimization, and performance analysis**
+* 🏥 Combining a healthcare background with software engineering to build practical healthcare technology solutions
+* 🎓 Completed the **Boot.dev Backend Engineering Curriculum**
+* 📚 Currently reading *The Pragmatic Programmer*
 
-Self-taught —I've spent the last 2 years building with Go and developing a passion for backend engineering. I'm currently working with Docker and SQL after having completed the Boot.dev backend programming course.  
-I'm especially interested in software engineering used to for educstion or medical improvements, where I can focus on turning real needs into practical software that genuinely helps others. Right now you can find me experimenting with backend projects or diving into *The Pragmatic Programmer*.
+I'm a Physical Therapist transitioning into software engineering after seeing firsthand how thoughtful technology can improve clinical workflows and documentation. Over the past two years I've focused on backend development with Go, building projects ranging from educational applications to healthcare-focused analytics systems.
+
+Most recently I've been developing a healthcare analytics ETL pipeline using Go, PostgreSQL, SQL, and Docker, with an emphasis on data transformation, reporting, and database performance. My goal is to combine healthcare domain expertise with software engineering to create tools that improve efficiency, decision-making, and patient care.
